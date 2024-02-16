@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 polars = "*"
+sqlalchemy = "*"
+pandas = "*"
+connectorx = "*"
 
 [dev-packages]
 
