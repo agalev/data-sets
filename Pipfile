@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 polars = "*"
-sqlalchemy = "*"
-pandas = "*"
-connectorx = "*"
+adbc-driver-postgresql = "*"
+pyarrow = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
